@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuelemacchia/image-classification-techniques/blob/master/notebook.ipynb)
 
-Evaluation of transfer learning and data augmentation in AlexNet and ResNet for image classification on Caltech-101. Experiments are carried out in PyTorch. More information is available in the [PDF report]([report.pdf]).
+Evaluation of transfer learning and data augmentation in AlexNet and ResNet for image classification on Caltech-101. Experiments are carried out in PyTorch. More information is available in the [PDF report](report.pdf).
 
 ## Structure
 - `notebook.ipynb` contains the main logic of the program and the results of the experiments that we carried out.
